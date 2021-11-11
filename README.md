@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi, I'm Nathalie 👋
+- 🤓 Frontend developer student at Medieinstituet
+- 🌱 I’m currently learning HTML/CSS & Javascript
 <!--
 **NathalieJaneP/nathaliejanep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
