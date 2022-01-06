@@ -1,6 +1,6 @@
 # Hi, I'm Nathalie 👋
 - 🇸🇪 Born in Sweden 
-- ⛷️ Living in the mountains of Switzerland since 5 years
+- ⛷️ Living in the mountains of Switzerland, Verbier
 - 🤓 Frontend developer student at Medieinstituet
 - 🌱 I’m currently learning HTML/CSS, Javascript and C#
 <!--
