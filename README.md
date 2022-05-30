@@ -2,7 +2,7 @@
 - 🇸🇪 Born in Sweden 
 - ⛷️ Living in the mountains of Switzerland, Verbier
 - 🤓 Frontend developer student at Medieinstituet
-- 🌱 I’m currently learning HTML/CSS, Javascript and C#
+- 🌱 I’m currently Javascript, Typescript, React, Angular, NodeJS
 <!--
 **NathalieJaneP/nathaliejanep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
