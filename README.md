@@ -1,4 +1,4 @@
-# Hi, I'm Nathalie 👋
+# Hi, I'm Nathalie 
 - 🇸🇪 Born in Sweden 
 - ⛷️ Living in the mountains of Switzerland, Verbier
 - 🤓 Blockchain developer student at Medieinstituet
