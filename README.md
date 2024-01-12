@@ -1,7 +1,8 @@
 # Hi, I'm Nathalie 
 - 🇸🇪 Born in Sweden 
 - ⛷️ Living in the mountains of Switzerland, Verbier
-- 🤓 Blockchain developer student at Medieinstituet
+- 🤓 Frontend Developer | JavaScript, TypeScript, React, NodeJS
+- 🌱  Blockchain developer student at Medieinstituet
 <!--
 **NathalieJaneP/nathaliejanep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
