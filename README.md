@@ -48,7 +48,6 @@ A lightweight, device-native blockchain protocol designed to run on mobile, IoT,
 
 - Decentralized systems & protocol design  
 - Type-safe, scalable architectures  
-- Open source contribution  
 
 ## Contact
 
